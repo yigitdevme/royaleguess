@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Knight",
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "knight.png"
+  },
+  {
+    "id": 2,
+    "name": "Archers",
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground & Air",
+    "speed": "Medium",
+    "image": "archers.png"
+  },
+  {
+    "id": 3,
+    "name": "Giant",
+    "rarity": "Rare",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Buildings",
+    "speed": "Slow",
+    "image": "giant.png"
+  },
+  {
+    "id": 4,
+    "name": "Musketeer",
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground & Air",
+    "speed": "Medium",
+    "image": "musketeer.png"
+  },
+  {
+    "id": 5,
+    "name": "Baby Dragon",
+    "rarity": "Epic",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground & Air",
+    "speed": "Fast",
+    "image": "baby-dragon.png"
+  },
+  {
+    "id": 6,
+    "name": "Prince",
+    "rarity": "Epic",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "prince.png"
+  },
+  {
+    "id": 7,
+    "name": "Skeleton Army",
+    "rarity": "Epic",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Fast",
+    "image": "skeleton-army.png"
+  },
+  {
+    "id": 8,
+    "name": "Valkyrie",
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "valkyrie.png"
+  },
+  {
+    "id": 9,
+    "name": "Mini P.E.K.K.A",
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Fast",
+    "image": "mini-pekka.png"
+  },
+  {
+    "id": 10,
+    "name": "Hog Rider",
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 1,
+    "target": "Buildings",
+    "speed": "Very Fast",
+    "image": "hog-rider.png"
+  },
+  {
+    "id": 11,
+    "name": "P.E.K.K.A",
+    "rarity": "Epic",
+    "elixir": 7,
+    "type": "Troop",
+    "arena": 4,
+    "target": "Ground",
+    "speed": "Slow",
+    "image": "pekka.png"
+  },
+  {
+    "id": 12,
+    "name": "Electro Wizard",
+    "rarity": "Legendary",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 7,
+    "target": "Ground & Air",
+    "speed": "Fast",
+    "image": "electro-wizard.png"
+  },
+  {
+    "id": 13,
+    "name": "The Log",
+    "rarity": "Legendary",
+    "elixir": 2,
+    "type": "Spell",
+    "arena": 6,
+    "target": "Ground",
+    "speed": "None",
+    "image": "the-log.png"
+  },
+  {
+    "id": 14,
+    "name": "Miner",
+    "rarity": "Legendary",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 4,
+    "target": "Ground",
+    "speed": "Fast",
+    "image": "miner.png"
+  },
+  {
+    "id": 15,
+    "name": "Princess",
+    "rarity": "Legendary",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 5,
+    "target": "Ground & Air",
+    "speed": "Medium",
+    "image": "princess.png"
+  },
+  {
+    "id": 16,
+    "name": "Mega Knight",
+    "rarity": "Legendary",
+    "elixir": 7,
+    "type": "Troop",
+    "arena": 7,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "mega-knight.png"
+  },
+  {
+    "id": 17,
+    "name": "Cannon",
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Building",
+    "arena": 3,
+    "target": "Ground",
+    "speed": "None",
+    "image": "cannon.png"
+  },
+  {
+    "id": 18,
+    "name": "Zap",
+    "rarity": "Common",
+    "elixir": 2,
+    "type": "Spell",
+    "arena": 5,
+    "target": "Ground & Air",
+    "speed": "None",
+    "image": "zap.png"
+  },
+  {
+    "id": 19,
+    "name": "Golem",
+    "rarity": "Epic",
+    "elixir": 8,
+    "type": "Troop",
+    "arena": 3,
+    "target": "Buildings",
+    "speed": "Slow",
+    "image": "golem.png"
+  },
+  {
+    "id": 20,
+    "name": "Fireball",
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Spell",
+    "arena": 0,
+    "target": "Ground & Air",
+    "speed": "None",
+    "image": "fireball.png"
+  }
+]

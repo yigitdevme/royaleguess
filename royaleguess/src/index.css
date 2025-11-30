@@ -1,0 +1,172 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500;600;700;800;900&display=swap');
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 50%, #1e3a5f 100%);
+  color: #ffffff;
+  font-family: 'Nunito', -apple-system, sans-serif;
+  min-height: 100vh;
+}
+
+/* Subtle pattern overlay */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: radial-gradient(circle at 25% 25%, rgba(255,255,255,0.02) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+/* CR Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0,0,0,0.2);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #f0c040 0%, #d4a020 100%);
+  border-radius: 10px;
+}
+
+/* Selection */
+::selection {
+  background: rgba(240, 192, 64, 0.4);
+  color: #fff;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes scaleIn {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+}
+
+@keyframes glow {
+  0%, 100% { box-shadow: 0 0 10px rgba(240, 192, 64, 0.3); }
+  50% { box-shadow: 0 0 20px rgba(240, 192, 64, 0.5); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.4s ease-out;
+}
+
+.animate-slideUp {
+  animation: slideUp 0.5s ease-out;
+}
+
+.animate-scaleIn {
+  animation: scaleIn 0.3s ease-out;
+}
+
+.animate-float {
+  animation: float 2s ease-in-out infinite;
+}
+
+/* Focus styles */
+input:focus {
+  outline: none;
+}
+
+/* Smooth transitions */
+button, a, input {
+  transition: all 0.2s ease;
+}
+
+/* CR Style Title */
+.cr-title {
+  font-family: 'Lilita One', cursive;
+  text-shadow: 
+    0 2px 0 #1a3a5c,
+    0 4px 0 rgba(0,0,0,0.3),
+    0 6px 12px rgba(0,0,0,0.4);
+}
+
+/* CR Gold Button */
+.cr-btn-gold {
+  background: linear-gradient(180deg, #ffe066 0%, #f0c040 30%, #d4a020 100%);
+  border: 3px solid #8b6914;
+  box-shadow: 
+    0 4px 0 #8b6914,
+    0 6px 12px rgba(0,0,0,0.4),
+    inset 0 2px 0 rgba(255,255,255,0.3);
+}
+
+.cr-btn-gold:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    0 6px 0 #8b6914,
+    0 8px 16px rgba(0,0,0,0.4),
+    inset 0 2px 0 rgba(255,255,255,0.3);
+}
+
+.cr-btn-gold:active {
+  transform: translateY(2px);
+  box-shadow: 
+    0 2px 0 #8b6914,
+    0 3px 6px rgba(0,0,0,0.4),
+    inset 0 2px 0 rgba(255,255,255,0.3);
+}
+
+/* CR Card Style - Like real game */
+.cr-card {
+  background: linear-gradient(180deg, #1e4a7a 0%, #143a60 50%, #0d2a48 100%);
+  border: 4px solid #3b8ed9;
+  border-radius: 20px;
+  box-shadow: 
+    0 0 0 2px #0a1f35,
+    0 8px 32px rgba(0,0,0,0.6),
+    inset 0 1px 0 rgba(255,255,255,0.1);
+}
+
+/* CR Cell - Like card slots */
+.cr-cell {
+  background: linear-gradient(180deg, #1a4570 0%, #0f2d4a 100%);
+  border: 3px solid #2d6aa8;
+  border-radius: 12px;
+  box-shadow: 
+    inset 0 2px 8px rgba(0,0,0,0.4),
+    0 2px 4px rgba(0,0,0,0.3);
+}
+
+/* CR Frame - Like character cards */
+.cr-frame {
+  background: linear-gradient(180deg, #1a4a7a 0%, #0f3050 100%);
+  border: 3px solid #4a9ee8;
+  border-radius: 16px;
+  box-shadow: 
+    0 0 0 2px #0a2035,
+    0 4px 16px rgba(0,0,0,0.5);
+}
+
+/* Elixir badge style */
+.cr-elixir {
+  background: linear-gradient(180deg, #c855e8 0%, #9333b8 100%);
+  border: 2px solid #7c22a0;
+  box-shadow: 0 2px 8px rgba(147, 51, 184, 0.5);
+}

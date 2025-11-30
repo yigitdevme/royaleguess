@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 26000000,
+    "name": {
+      "en": "Knight",
+      "tr": "Şövalye"
+    },
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "knight.png"
+  },
+  {
+    "id": 26000001,
+    "name": {
+      "en": "Archers",
+      "tr": "Okçular"
+    },
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "archers.png"
+  },
+  {
+    "id": 26000002,
+    "name": {
+      "en": "Goblins",
+      "tr": "Goblinler"
+    },
+    "rarity": "Common",
+    "elixir": 2,
+    "type": "Troop",
+    "arena": 1,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "goblins.png"
+  },
+  {
+    "id": 26000003,
+    "name": {
+      "en": "Giant",
+      "tr": "Dev"
+    },
+    "rarity": "Rare",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "giant.png"
+  },
+  {
+    "id": 26000004,
+    "name": {
+      "en": "P.E.K.K.A",
+      "tr": "P.E.K.K.A"
+    },
+    "rarity": "Epic",
+    "elixir": 7,
+    "type": "Troop",
+    "arena": 6,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "pekka.png"
+  },
+  {
+    "id": 26000005,
+    "name": {
+      "en": "Minions",
+      "tr": "Minyonlar"
+    },
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "minions.png"
+  },
+  {
+    "id": 26000006,
+    "name": {
+      "en": "Balloon",
+      "tr": "Balon"
+    },
+    "rarity": "Epic",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 7,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "balloon.png"
+  },
+  {
+    "id": 26000007,
+    "name": {
+      "en": "Witch",
+      "tr": "Cadı"
+    },
+    "rarity": "Epic",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 6,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "witch.png"
+  },
+  {
+    "id": 26000008,
+    "name": {
+      "en": "Barbarians",
+      "tr": "Barbarlar"
+    },
+    "rarity": "Common",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 3,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "barbarians.png"
+  },
+  {
+    "id": 26000009,
+    "name": {
+      "en": "Golem",
+      "tr": "Golem"
+    },
+    "rarity": "Epic",
+    "elixir": 8,
+    "type": "Troop",
+    "arena": 10,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "golem.png"
+  },
+  {
+    "id": 26000010,
+    "name": {
+      "en": "Skeletons",
+      "tr": "İskeletler"
+    },
+    "rarity": "Common",
+    "elixir": 1,
+    "type": "Troop",
+    "arena": 2,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "skeletons.png"
+  },
+  {
+    "id": 26000011,
+    "name": {
+      "en": "Valkyrie",
+      "tr": "Valkür"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 2,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "valkyrie.png"
+  },
+  {
+    "id": 26000012,
+    "name": {
+      "en": "Skeleton Army",
+      "tr": "İskelet Ordusu"
+    },
+    "rarity": "Epic",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 6,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "skeleton-army.png"
+  },
+  {
+    "id": 26000013,
+    "name": {
+      "en": "Bomber",
+      "tr": "Bombacı"
+    },
+    "rarity": "Common",
+    "elixir": 2,
+    "type": "Troop",
+    "arena": 2,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "bomber.png"
+  },
+  {
+    "id": 26000014,
+    "name": {
+      "en": "Musketeer",
+      "tr": "Silahşor"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "musketeer.png"
+  },
+  {
+    "id": 26000015,
+    "name": {
+      "en": "Baby Dragon",
+      "tr": "Yavru Ejderha"
+    },
+    "rarity": "Epic",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 6,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "baby-dragon.png"
+  },
+  {
+    "id": 26000016,
+    "name": {
+      "en": "Prince",
+      "tr": "Prens"
+    },
+    "rarity": "Epic",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 7,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "prince.png"
+  },
+  {
+    "id": 26000017,
+    "name": {
+      "en": "Wizard",
+      "tr": "Büyücü"
+    },
+    "rarity": "Rare",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 4,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "wizard.png"
+  },
+  {
+    "id": 26000018,
+    "name": {
+      "en": "Mini P.E.K.K.A",
+      "tr": "Mini P.E.K.K.A"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 0,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "mini-pekka.png"
+  },
+  {
+    "id": 26000019,
+    "name": {
+      "en": "Spear Goblins",
+      "tr": "Mızraklı Goblin"
+    },
+    "rarity": "Common",
+    "elixir": 2,
+    "type": "Troop",
+    "arena": 1,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "spear-goblins.png"
+  },
+  {
+    "id": 26000020,
+    "name": {
+      "en": "Giant Skeleton",
+      "tr": "Dev İskelet"
+    },
+    "rarity": "Epic",
+    "elixir": 6,
+    "type": "Troop",
+    "arena": 8,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "giant-skeleton.png"
+  },
+  {
+    "id": 26000021,
+    "name": {
+      "en": "Hog Rider",
+      "tr": "Domuz Binicisi"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 5,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "hog-rider.png"
+  },
+  {
+    "id": 26000022,
+    "name": {
+      "en": "Minion Horde",
+      "tr": "Minyon sürüsü"
+    },
+    "rarity": "Common",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 10,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "minion-horde.png"
+  },
+  {
+    "id": 26000023,
+    "name": {
+      "en": "Ice Wizard",
+      "tr": "Buz Büyücüsü"
+    },
+    "rarity": "Legendary",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 12,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "ice-wizard.png"
+  },
+  {
+    "id": 26000024,
+    "name": {
+      "en": "Royal Giant",
+      "tr": "Kraliyet Devi"
+    },
+    "rarity": "Common",
+    "elixir": 6,
+    "type": "Troop",
+    "arena": 7,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "royal-giant.png"
+  },
+  {
+    "id": 26000025,
+    "name": {
+      "en": "Guards",
+      "tr": "Korumalar"
+    },
+    "rarity": "Epic",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 6,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "guards.png"
+  },
+  {
+    "id": 26000026,
+    "name": {
+      "en": "Princess",
+      "tr": "Prenses"
+    },
+    "rarity": "Legendary",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 11,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "princess.png"
+  },
+  {
+    "id": 26000027,
+    "name": {
+      "en": "Dark Prince",
+      "tr": "Kara Prens"
+    },
+    "rarity": "Epic",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 7,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "dark-prince.png"
+  },
+  {
+    "id": 26000028,
+    "name": {
+      "en": "Three Musketeers",
+      "tr": "Üç Silahşor"
+    },
+    "rarity": "Rare",
+    "elixir": 9,
+    "type": "Troop",
+    "arena": 7,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "three-musketeers.png"
+  },
+  {
+    "id": 26000029,
+    "name": {
+      "en": "Lava Hound",
+      "tr": "Lav Tazısı"
+    },
+    "rarity": "Legendary",
+    "elixir": 7,
+    "type": "Troop",
+    "arena": 13,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "lava-hound.png"
+  },
+  {
+    "id": 26000030,
+    "name": {
+      "en": "Ice Spirit",
+      "tr": "Buz Ruhu"
+    },
+    "rarity": "Common",
+    "elixir": 1,
+    "type": "Troop",
+    "arena": 8,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "ice-spirit.png"
+  },
+  {
+    "id": 26000031,
+    "name": {
+      "en": "Fire Spirit",
+      "tr": "Ateş Ruhu"
+    },
+    "rarity": "Common",
+    "elixir": 1,
+    "type": "Troop",
+    "arena": 4,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "fire-spirit.png"
+  },
+  {
+    "id": 26000032,
+    "name": {
+      "en": "Miner",
+      "tr": "Madenci"
+    },
+    "rarity": "Legendary",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 11,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "miner.png"
+  },
+  {
+    "id": 26000033,
+    "name": {
+      "en": "Sparky",
+      "tr": "Kıvılcım"
+    },
+    "rarity": "Legendary",
+    "elixir": 6,
+    "type": "Troop",
+    "arena": 11,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "sparky.png"
+  },
+  {
+    "id": 26000034,
+    "name": {
+      "en": "Bowler",
+      "tr": "Atıcı"
+    },
+    "rarity": "Epic",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 13,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "bowler.png"
+  },
+  {
+    "id": 26000035,
+    "name": {
+      "en": "Lumberjack",
+      "tr": "Oduncu"
+    },
+    "rarity": "Legendary",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 14,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "lumberjack.png"
+  },
+  {
+    "id": 26000036,
+    "name": {
+      "en": "Battle Ram",
+      "tr": "Koçbaşı"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 3,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "battle-ram.png"
+  },
+  {
+    "id": 26000037,
+    "name": {
+      "en": "Inferno Dragon",
+      "tr": "Cehennem Ejderhası"
+    },
+    "rarity": "Legendary",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 11,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "inferno-dragon.png"
+  },
+  {
+    "id": 26000038,
+    "name": {
+      "en": "Ice Golem",
+      "tr": "Buz Golemi"
+    },
+    "rarity": "Rare",
+    "elixir": 2,
+    "type": "Troop",
+    "arena": 8,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "ice-golem.png"
+  },
+  {
+    "id": 26000039,
+    "name": {
+      "en": "Mega Minion",
+      "tr": "Mega Minyon"
+    },
+    "rarity": "Rare",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 3,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "mega-minion.png"
+  },
+  {
+    "id": 26000040,
+    "name": {
+      "en": "Dart Goblin",
+      "tr": "Dart Goblini"
+    },
+    "rarity": "Rare",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 9,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "dart-goblin.png"
+  },
+  {
+    "id": 26000041,
+    "name": {
+      "en": "Goblin Gang",
+      "tr": "Goblin Çetesi"
+    },
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 9,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "goblin-gang.png"
+  },
+  {
+    "id": 26000042,
+    "name": {
+      "en": "Electro Wizard",
+      "tr": "Elektro Büyücü"
+    },
+    "rarity": "Legendary",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 11,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "electro-wizard.png"
+  },
+  {
+    "id": 26000043,
+    "name": {
+      "en": "Elite Barbarians",
+      "tr": "Elit Barbarlar"
+    },
+    "rarity": "Common",
+    "elixir": 6,
+    "type": "Troop",
+    "arena": 10,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "elite-barbarians.png"
+  },
+  {
+    "id": 26000044,
+    "name": {
+      "en": "Hunter",
+      "tr": "Avcı"
+    },
+    "rarity": "Epic",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 10,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "hunter.png"
+  },
+  {
+    "id": 26000045,
+    "name": {
+      "en": "Executioner",
+      "tr": "Cellat"
+    },
+    "rarity": "Epic",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 14,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "executioner.png"
+  },
+  {
+    "id": 26000046,
+    "name": {
+      "en": "Bandit",
+      "tr": "Haydut"
+    },
+    "rarity": "Legendary",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 13,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "bandit.png"
+  },
+  {
+    "id": 26000047,
+    "name": {
+      "en": "Royal Recruits",
+      "tr": "Muhafızlar"
+    },
+    "rarity": "Common",
+    "elixir": 7,
+    "type": "Troop",
+    "arena": 7,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "royal-recruits.png"
+  },
+  {
+    "id": 26000048,
+    "name": {
+      "en": "Night Witch",
+      "tr": "Gece Cadısı"
+    },
+    "rarity": "Legendary",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 14,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "night-witch.png"
+  },
+  {
+    "id": 26000049,
+    "name": {
+      "en": "Bats",
+      "tr": "Yarasalar"
+    },
+    "rarity": "Common",
+    "elixir": 2,
+    "type": "Troop",
+    "arena": 5,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "bats.png"
+  },
+  {
+    "id": 26000050,
+    "name": {
+      "en": "Royal Ghost",
+      "tr": "Kraliyet Hayaleti"
+    },
+    "rarity": "Legendary",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 12,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "royal-ghost.png"
+  },
+  {
+    "id": 26000051,
+    "name": {
+      "en": "Ram Rider",
+      "tr": "Koç Binicisi"
+    },
+    "rarity": "Legendary",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 11,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "ram-rider.png"
+  },
+  {
+    "id": 26000052,
+    "name": {
+      "en": "Zappies",
+      "tr": "Şok Birliği"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 10,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "zappies.png"
+  },
+  {
+    "id": 26000053,
+    "name": {
+      "en": "Rascals",
+      "tr": "Serseriler"
+    },
+    "rarity": "Common",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 13,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "rascals.png"
+  },
+  {
+    "id": 26000054,
+    "name": {
+      "en": "Cannon Cart",
+      "tr": "Top Arabası"
+    },
+    "rarity": "Epic",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 15,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "cannon-cart.png"
+  },
+  {
+    "id": 26000055,
+    "name": {
+      "en": "Mega Knight",
+      "tr": "Mega Şövalye"
+    },
+    "rarity": "Legendary",
+    "elixir": 7,
+    "type": "Troop",
+    "arena": 11,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "mega-knight.png"
+  },
+  {
+    "id": 26000056,
+    "name": {
+      "en": "Skeleton Barrel",
+      "tr": "İskelet Fıçısı"
+    },
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 9,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "skeleton-barrel.png"
+  },
+  {
+    "id": 26000057,
+    "name": {
+      "en": "Flying Machine",
+      "tr": "Uçan Makine"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 5,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "flying-machine.png"
+  },
+  {
+    "id": 26000058,
+    "name": {
+      "en": "Wall Breakers",
+      "tr": "Duvar Yıkıcılar"
+    },
+    "rarity": "Epic",
+    "elixir": 2,
+    "type": "Troop",
+    "arena": 12,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "wall-breakers.png"
+  },
+  {
+    "id": 26000059,
+    "name": {
+      "en": "Royal Hogs",
+      "tr": "Kraliyet Domuzları"
+    },
+    "rarity": "Rare",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 7,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "royal-hogs.png"
+  },
+  {
+    "id": 26000060,
+    "name": {
+      "en": "Goblin Giant",
+      "tr": "Dev Goblin"
+    },
+    "rarity": "Epic",
+    "elixir": 6,
+    "type": "Troop",
+    "arena": 9,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "goblin-giant.png"
+  },
+  {
+    "id": 26000061,
+    "name": {
+      "en": "Fisherman",
+      "tr": "Balıkçı"
+    },
+    "rarity": "Legendary",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 15,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "fisherman.png"
+  },
+  {
+    "id": 26000062,
+    "name": {
+      "en": "Magic Archer",
+      "tr": "Büyülü Okçu"
+    },
+    "rarity": "Legendary",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 13,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "magic-archer.png"
+  },
+  {
+    "id": 26000063,
+    "name": {
+      "en": "Electro Dragon",
+      "tr": "Elektro Ejderha"
+    },
+    "rarity": "Epic",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 12,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "electro-dragon.png"
+  },
+  {
+    "id": 26000064,
+    "name": {
+      "en": "Firecracker",
+      "tr": "Havai Fişekçi"
+    },
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 12,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "firecracker.png"
+  },
+  {
+    "id": 26000065,
+    "name": {
+      "en": "Mighty Miner",
+      "tr": "Güçlü Madenci"
+    },
+    "rarity": "Champion",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 17,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "mighty-miner.png"
+  },
+  {
+    "id": 26000066,
+    "name": {
+      "en": "Super Witch",
+      "tr": "Süper Cadı"
+    },
+    "rarity": "Legendary",
+    "elixir": 6,
+    "type": "Troop",
+    "arena": 5,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "super-witch.png"
+  },
+  {
+    "id": 26000067,
+    "name": {
+      "en": "Elixir Golem",
+      "tr": "İksir Golemi"
+    },
+    "rarity": "Rare",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 14,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "elixir-golem.png"
+  },
+  {
+    "id": 26000068,
+    "name": {
+      "en": "Battle Healer",
+      "tr": "Şifacı"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 8,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "battle-healer.png"
+  },
+  {
+    "id": 26000069,
+    "name": {
+      "en": "Skeleton King",
+      "tr": "İskelet Kral"
+    },
+    "rarity": "Champion",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 16,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "skeleton-king.png"
+  },
+  {
+    "id": 26000070,
+    "name": {
+      "en": "Super Lava Hound",
+      "tr": "Süper Lav Tazısı"
+    },
+    "rarity": "Legendary",
+    "elixir": 8,
+    "type": "Troop",
+    "arena": 10,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "super-lava-hound.png"
+  },
+  {
+    "id": 26000071,
+    "name": {
+      "en": "Super Magic Archer",
+      "tr": "Süper Büyülü Okçu"
+    },
+    "rarity": "Legendary",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 13,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "super-magic-archer.png"
+  },
+  {
+    "id": 26000072,
+    "name": {
+      "en": "Archer Queen",
+      "tr": "Okçu Kraliçe"
+    },
+    "rarity": "Champion",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 17,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "archer-queen.png"
+  },
+  {
+    "id": 26000073,
+    "name": {
+      "en": "Santa Hog Rider",
+      "tr": "Noel Baba Domuz Binicisi"
+    },
+    "rarity": "Legendary",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 5,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "santa-hog-rider.png"
+  },
+  {
+    "id": 26000074,
+    "name": {
+      "en": "Golden Knight",
+      "tr": "Altın Şövalye"
+    },
+    "rarity": "Champion",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 16,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "golden-knight.png"
+  },
+  {
+    "id": 26000075,
+    "name": {
+      "en": "Super Ice Golem",
+      "tr": "Süper Buz Golemi"
+    },
+    "rarity": "Legendary",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 8,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "super-ice-golem.png"
+  },
+  {
+    "id": 26000077,
+    "name": {
+      "en": "Monk",
+      "tr": "Keşiş"
+    },
+    "rarity": "Champion",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 18,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "monk.png"
+  },
+  {
+    "id": 26000078,
+    "name": {
+      "en": "Super Archers",
+      "tr": "Süper Okçular"
+    },
+    "rarity": "Legendary",
+    "elixir": 3,
+    "type": "Troop",
+    "arena": 24,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "super-archers.png"
+  },
+  {
+    "id": 26000080,
+    "name": {
+      "en": "Skeleton Dragons",
+      "tr": "İskelet Ejderhalar"
+    },
+    "rarity": "Common",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 4,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "skeleton-dragons.png"
+  },
+  {
+    "id": 26000081,
+    "name": {
+      "en": "Terry",
+      "tr": "Terry"
+    },
+    "rarity": "Champion",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 16,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "terry.png"
+  },
+  {
+    "id": 26000082,
+    "name": {
+      "en": "Super Mini P.E.K.K.A",
+      "tr": "Süper Mini P.E.K.K.A"
+    },
+    "rarity": "Legendary",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 14,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "super-mini-pekka.png"
+  },
+  {
+    "id": 26000083,
+    "name": {
+      "en": "Mother Witch",
+      "tr": "Yaşlı Cadı"
+    },
+    "rarity": "Legendary",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 15,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "mother-witch.png"
+  },
+  {
+    "id": 26000084,
+    "name": {
+      "en": "Electro Spirit",
+      "tr": "Elektro Ruh"
+    },
+    "rarity": "Common",
+    "elixir": 1,
+    "type": "Troop",
+    "arena": 4,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "electro-spirit.png"
+  },
+  {
+    "id": 26000085,
+    "name": {
+      "en": "Electro Giant",
+      "tr": "Elektro Dev"
+    },
+    "rarity": "Epic",
+    "elixir": 7,
+    "type": "Troop",
+    "arena": 13,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "electro-giant.png"
+  },
+  {
+    "id": 26000086,
+    "name": {
+      "en": "Raging Prince",
+      "tr": "Öfkeli Prens"
+    },
+    "rarity": "Epic",
+    "elixir": 5,
+    "type": "Troop",
+    "arena": 7,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "raging-prince.png"
+  },
+  {
+    "id": 26000087,
+    "name": {
+      "en": "Phoenix",
+      "tr": "Anka Kuşu"
+    },
+    "rarity": "Legendary",
+    "elixir": 4,
+    "type": "Troop",
+    "arena": 12,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "phoenix.png"
+  },
+  {
+    "id": 27000000,
+    "name": {
+      "en": "Cannon",
+      "tr": "Top"
+    },
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Building",
+    "arena": 3,
+    "target": "None",
+    "speed": "None",
+    "image": "cannon.png"
+  },
+  {
+    "id": 27000001,
+    "name": {
+      "en": "Goblin Hut",
+      "tr": "Goblin Kulübesi"
+    },
+    "rarity": "Rare",
+    "elixir": 5,
+    "type": "Building",
+    "arena": 1,
+    "target": "None",
+    "speed": "None",
+    "image": "goblin-hut.png"
+  },
+  {
+    "id": 27000002,
+    "name": {
+      "en": "Mortar",
+      "tr": "Havan"
+    },
+    "rarity": "Common",
+    "elixir": 4,
+    "type": "Building",
+    "arena": 5,
+    "target": "None",
+    "speed": "None",
+    "image": "mortar.png"
+  },
+  {
+    "id": 27000003,
+    "name": {
+      "en": "Inferno Tower",
+      "tr": "Felaket Kulesi"
+    },
+    "rarity": "Rare",
+    "elixir": 5,
+    "type": "Building",
+    "arena": 4,
+    "target": "None",
+    "speed": "None",
+    "image": "inferno-tower.png"
+  },
+  {
+    "id": 27000004,
+    "name": {
+      "en": "Bomb Tower",
+      "tr": "Bomba Kulesi"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Building",
+    "arena": 4,
+    "target": "None",
+    "speed": "None",
+    "image": "bomb-tower.png"
+  },
+  {
+    "id": 27000005,
+    "name": {
+      "en": "Barbarian Hut",
+      "tr": "Barbar Kulübesi"
+    },
+    "rarity": "Rare",
+    "elixir": 6,
+    "type": "Building",
+    "arena": 9,
+    "target": "None",
+    "speed": "None",
+    "image": "barbarian-hut.png"
+  },
+  {
+    "id": 27000006,
+    "name": {
+      "en": "Tesla",
+      "tr": "Tesla"
+    },
+    "rarity": "Common",
+    "elixir": 4,
+    "type": "Building",
+    "arena": 10,
+    "target": "None",
+    "speed": "None",
+    "image": "tesla.png"
+  },
+  {
+    "id": 27000007,
+    "name": {
+      "en": "Elixir Collector",
+      "tr": "İksir Toplayıcı"
+    },
+    "rarity": "Rare",
+    "elixir": 6,
+    "type": "Building",
+    "arena": 15,
+    "target": "None",
+    "speed": "None",
+    "image": "elixir-collector.png"
+  },
+  {
+    "id": 27000008,
+    "name": {
+      "en": "X-Bow",
+      "tr": "X Yayı"
+    },
+    "rarity": "Epic",
+    "elixir": 6,
+    "type": "Building",
+    "arena": 10,
+    "target": "None",
+    "speed": "None",
+    "image": "x-bow.png"
+  },
+  {
+    "id": 27000009,
+    "name": {
+      "en": "Tombstone",
+      "tr": "Mezar Taşı"
+    },
+    "rarity": "Rare",
+    "elixir": 3,
+    "type": "Building",
+    "arena": 2,
+    "target": "None",
+    "speed": "None",
+    "image": "tombstone.png"
+  },
+  {
+    "id": 27000010,
+    "name": {
+      "en": "Furnace",
+      "tr": "Fırın"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Building",
+    "arena": 10,
+    "target": "None",
+    "speed": "None",
+    "image": "furnace.png"
+  },
+  {
+    "id": 27000012,
+    "name": {
+      "en": "Goblin Cage",
+      "tr": "Goblin Kafesi"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Building",
+    "arena": 1,
+    "target": "None",
+    "speed": "None",
+    "image": "goblin-cage.png"
+  },
+  {
+    "id": 27000013,
+    "name": {
+      "en": "Goblin Drill",
+      "tr": "Köstebek"
+    },
+    "rarity": "Epic",
+    "elixir": 4,
+    "type": "Building",
+    "arena": 14,
+    "target": "None",
+    "speed": "None",
+    "image": "goblin-drill.png"
+  },
+  {
+    "id": 27000014,
+    "name": {
+      "en": "Party Hut",
+      "tr": "Parti Kulübesi"
+    },
+    "rarity": "Legendary",
+    "elixir": 5,
+    "type": "Building",
+    "arena": 10,
+    "target": "None",
+    "speed": "None",
+    "image": "party-hut.png"
+  },
+  {
+    "id": 28000000,
+    "name": {
+      "en": "Fireball",
+      "tr": "Alev Topu"
+    },
+    "rarity": "Rare",
+    "elixir": 4,
+    "type": "Spell",
+    "arena": 0,
+    "target": "None",
+    "speed": "None",
+    "image": "fireball.png"
+  },
+  {
+    "id": 28000001,
+    "name": {
+      "en": "Arrows",
+      "tr": "Oklar"
+    },
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Spell",
+    "arena": 0,
+    "target": "None",
+    "speed": "None",
+    "image": "arrows.png"
+  },
+  {
+    "id": 28000002,
+    "name": {
+      "en": "Rage",
+      "tr": "Öfke"
+    },
+    "rarity": "Epic",
+    "elixir": 2,
+    "type": "Spell",
+    "arena": 14,
+    "target": "None",
+    "speed": "None",
+    "image": "rage.png"
+  },
+  {
+    "id": 28000003,
+    "name": {
+      "en": "Rocket",
+      "tr": "Roket"
+    },
+    "rarity": "Rare",
+    "elixir": 6,
+    "type": "Spell",
+    "arena": 5,
+    "target": "None",
+    "speed": "None",
+    "image": "rocket.png"
+  },
+  {
+    "id": 28000004,
+    "name": {
+      "en": "Goblin Barrel",
+      "tr": "Goblin Fıçısı"
+    },
+    "rarity": "Epic",
+    "elixir": 3,
+    "type": "Spell",
+    "arena": 6,
+    "target": "None",
+    "speed": "None",
+    "image": "goblin-barrel.png"
+  },
+  {
+    "id": 28000005,
+    "name": {
+      "en": "Freeze",
+      "tr": "Dondurma"
+    },
+    "rarity": "Epic",
+    "elixir": 4,
+    "type": "Spell",
+    "arena": 8,
+    "target": "None",
+    "speed": "None",
+    "image": "freeze.png"
+  },
+  {
+    "id": 28000006,
+    "name": {
+      "en": "Mirror",
+      "tr": "Ayna"
+    },
+    "rarity": "Epic",
+    "elixir": 1,
+    "type": "Spell",
+    "arena": 15,
+    "target": "None",
+    "speed": "None",
+    "image": "mirror.png"
+  },
+  {
+    "id": 28000007,
+    "name": {
+      "en": "Lightning",
+      "tr": "Yıldırım"
+    },
+    "rarity": "Epic",
+    "elixir": 6,
+    "type": "Spell",
+    "arena": 8,
+    "target": "None",
+    "speed": "None",
+    "image": "lightning.png"
+  },
+  {
+    "id": 28000008,
+    "name": {
+      "en": "Zap",
+      "tr": "Çarpma"
+    },
+    "rarity": "Common",
+    "elixir": 2,
+    "type": "Spell",
+    "arena": 5,
+    "target": "None",
+    "speed": "None",
+    "image": "zap.png"
+  },
+  {
+    "id": 28000009,
+    "name": {
+      "en": "Poison",
+      "tr": "Zehir"
+    },
+    "rarity": "Epic",
+    "elixir": 4,
+    "type": "Spell",
+    "arena": 9,
+    "target": "None",
+    "speed": "None",
+    "image": "poison.png"
+  },
+  {
+    "id": 28000010,
+    "name": {
+      "en": "Graveyard",
+      "tr": "Mezarlık"
+    },
+    "rarity": "Legendary",
+    "elixir": 5,
+    "type": "Spell",
+    "arena": 12,
+    "target": "None",
+    "speed": "None",
+    "image": "graveyard.png"
+  },
+  {
+    "id": 28000011,
+    "name": {
+      "en": "The Log",
+      "tr": "Tomruk"
+    },
+    "rarity": "Legendary",
+    "elixir": 2,
+    "type": "Spell",
+    "arena": 11,
+    "target": "None",
+    "speed": "None",
+    "image": "the-log.png"
+  },
+  {
+    "id": 28000012,
+    "name": {
+      "en": "Tornado",
+      "tr": "Kasırga"
+    },
+    "rarity": "Epic",
+    "elixir": 3,
+    "type": "Spell",
+    "arena": 15,
+    "target": "None",
+    "speed": "None",
+    "image": "tornado.png"
+  },
+  {
+    "id": 28000013,
+    "name": {
+      "en": "Clone",
+      "tr": "Klon"
+    },
+    "rarity": "Epic",
+    "elixir": 3,
+    "type": "Spell",
+    "arena": 15,
+    "target": "None",
+    "speed": "None",
+    "image": "clone.png"
+  },
+  {
+    "id": 28000014,
+    "name": {
+      "en": "Earthquake",
+      "tr": "Deprem"
+    },
+    "rarity": "Rare",
+    "elixir": 3,
+    "type": "Spell",
+    "arena": 12,
+    "target": "None",
+    "speed": "None",
+    "image": "earthquake.png"
+  },
+  {
+    "id": 28000015,
+    "name": {
+      "en": "Barbarian Barrel",
+      "tr": "Barbar Varili"
+    },
+    "rarity": "Epic",
+    "elixir": 2,
+    "type": "Spell",
+    "arena": 9,
+    "target": "None",
+    "speed": "None",
+    "image": "barbarian-barrel.png"
+  },
+  {
+    "id": 28000016,
+    "name": {
+      "en": "Heal Spirit",
+      "tr": "İyileştirici Ruh"
+    },
+    "rarity": "Rare",
+    "elixir": 1,
+    "type": "Troop",
+    "arena": 13,
+    "target": "Ground",
+    "speed": "Medium",
+    "image": "heal-spirit.png"
+  },
+  {
+    "id": 28000017,
+    "name": {
+      "en": "Giant Snowball",
+      "tr": "Dev Kar Topu"
+    },
+    "rarity": "Common",
+    "elixir": 2,
+    "type": "Spell",
+    "arena": 8,
+    "target": "None",
+    "speed": "None",
+    "image": "giant-snowball.png"
+  },
+  {
+    "id": 28000018,
+    "name": {
+      "en": "Royal Delivery",
+      "tr": "Kraliyet Paketi"
+    },
+    "rarity": "Common",
+    "elixir": 3,
+    "type": "Spell",
+    "arena": 14,
+    "target": "None",
+    "speed": "None",
+    "image": "royal-delivery.png"
+  },
+  {
+    "id": 28000020,
+    "name": {
+      "en": "Party Rocket",
+      "tr": "Parti Roketi"
+    },
+    "rarity": "Legendary",
+    "elixir": 5,
+    "type": "Spell",
+    "arena": 15,
+    "target": "None",
+    "speed": "None",
+    "image": "party-rocket.png"
+  }
+]
